@@ -1,0 +1,5 @@
+mean-client/package-lock.json
+mean-client/node_module
+
+meanBackend/package-lock.json
+meanBackend/node_module
